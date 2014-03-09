@@ -15,10 +15,6 @@ recieve from each IP-address. I'm going to go start with a trivial
 kernel module and then incrementally implement our tcpdump.
 
 
-{% highlight C %}
-
-{% endlight %}
-
 
 [lkmpg]: http://www.tldp.org/LDP/lkmpg/2.6/html/
 [netfilter]: http://www.netfilter.org/documentation/HOWTO/netfilter-hacking-HOWTO-3.html

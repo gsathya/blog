@@ -2,3 +2,5 @@ name: Sathyanarayanan Gunasekaran
 pygments: true
 permalink: none
 baseurl: /blog
+markdown:      kramdown
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
