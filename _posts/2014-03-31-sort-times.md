@@ -12,9 +12,9 @@ suggest you try it out before reading further. Spoilers ahead!
 Most of the solutions on the comments of that page use sorting to
 solve it. This is suboptimal since sorting takes O(nlogn). The key
 thing to note here is that there is an upper bound on the maximum
-value in the input list -- 23. Therefore, we can use count sort to
-"sort" this in O(n) running time with constant space(array of size
-24).
+value in the input list -- 23. Therefore, we can use
+[count sort](http://en.wikipedia.org/wiki/Counting_sort) to "sort"
+this in O(n) running time with constant space(array of size 24).
 
 Here's the code in python -
 
