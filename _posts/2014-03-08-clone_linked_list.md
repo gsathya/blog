@@ -3,7 +3,7 @@ layout: post
 title:  "Clone a linked list"
 date:   2014-03-08 19:11:11
 comments: true
-categories: programming puzzles
+categories: puzzles
 ---
 
 One of my labmates recently interviewed with Google and we were
