@@ -6,6 +6,8 @@ comments: true
 categories: mozilla
 ---
 
+**UPDATE**: The SDL2 port has been upstreamed - [Source code](https://github.com/emscripten-ports/SDL2) and [documentation](https://kripken.github.io/emscripten-site/docs/compiling/Building-Projects.html#emscripten-ports).
+
 I've been working on porting [SDL2](https://www.libsdl.org/) to
 Javascript using [Emscripten](https://www.emscripten.org) as part
 of my summer internship at [Mozilla](https://www.mozilla.org/). 
