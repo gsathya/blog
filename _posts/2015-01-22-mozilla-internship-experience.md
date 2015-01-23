@@ -67,18 +67,6 @@ Here are *my* opinions -
   looking to convert your internship to a full time position then I'd
   recommend some other place.
 
-### Nits -
-
-* No free meals (except Monday and Friday) - It sucked having to stop
-  work and go out to get food all the time (I'm really bad at context
-  switching) and most companies provide free meals anyways. (I've been
-  told that the Mountain View office has lunch served everyday now.)
-
-* Had to share a 2BHK with 3 others - I would've preferred my own
-  space (There was some miscommunication initially, and I was told
-  that I would have a separate room; otherwise I would've taken the
-  housing stipend)
-
 > What do you think about the controversies that happened with Mozilla
 > last year? Did it affect interns and employee's morale?
 
